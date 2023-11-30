@@ -1,6 +1,6 @@
 # CSS Glassmorphism Generator
 
-![CSS Glassmorphism Generator](https://github.com/sanjay-mali/css-glassmorphism-generator/blob/main/assets/images/css-glassmorphism-generator-preview.png)
+![CSS Glassmorphism Generator](https://github.com/sanjay-mali/css-glassmorphism-generator/blob/main/demo.png)
 
 ## Description
 
