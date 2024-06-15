@@ -12,7 +12,7 @@ function update() {
     const colorValue = document.getElementById('colorPicker').value
 
     const opacity__ = document.querySelector('.opacity__')
-    opacity__.innerHTML = `background = rgba( 255, 255, 255,${opacityValue})`
+    opacity__.innerHTML = `background : rgba( 255, 255, 255,${opacityValue})`
     card.style.background = `rgba(${hexToRgb(colorValue)}, ${opacityValue})`;
     card.style.webkitBackdropFilter = `blur(${blurValue}px)`;
 

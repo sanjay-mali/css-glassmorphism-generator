@@ -6,7 +6,7 @@
 
 This project is a CSS-based Glassmorphism Generator that allows users to create glassmorphic UI components easily by adjusting various parameters. It provides an intuitive web interface where users can customize the blur, opacity, colors, and other attributes to generate CSS code for glassmorphic elements.
 
-Check out the live demo: [CSS Glassmorphism Generator](https://sanjay-mali.github.io/css-glassmorphism-generator/)
+Check out the live demo: [CSS Glassmorphism Generator](https://glassmorphism-generator-chi.vercel.app/)
 
 ## Features
 
@@ -19,7 +19,7 @@ Check out the live demo: [CSS Glassmorphism Generator](https://sanjay-mali.githu
 
 To utilize this Glassmorphism Generator:
 
-1. Visit the [CSS Glassmorphism Generator](https://sanjay-mali.github.io/css-glassmorphism-generator/) website.
+1. Visit the [CSS Glassmorphism Generator](https://glassmorphism-generator-chi.vercel.app/) website.
 2. Adjust the parameters using the provided sliders and color pickers.
 3. Preview the changes in real-time.
 4. Copy the generated CSS code to use in your projects.
